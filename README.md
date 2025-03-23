@@ -14,8 +14,11 @@ The chart generates **random market data**, ensuring **open-close consistency**,
 ✅ **Smooth leftward scrolling** – New candles push old ones left instead of reloading  
 ---
 
-🔥 Future Enhancements
+##🔥 Future Enhancements
+
 🔹 Live API Data → Connect to a real stock market API (e.g., Binance, Alpha Vantage).
+
 🔹 Indicators → Add moving averages, RSI, Bollinger Bands for analysis.
+
 🔹 Custom Timeframes → Allow users to select 1m, 5m, 15m, 1H views.
 
