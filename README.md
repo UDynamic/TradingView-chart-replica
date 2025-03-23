@@ -10,11 +10,12 @@ The chart generates **random market data**, ensuring **open-close consistency**,
 ---
 
 ## 🎯 Features
-✅ **TradingView-style UI** – Dark theme, smooth animations, and elegant styling  
-✅ **Randomized market data** – Simulating real candlestick behavior with open-close continuity  
 ✅ **Dynamic zooming & panning** – Zoom out to see 4-hour candles, zoom in for minutely details  
 ✅ **Smooth leftward scrolling** – New candles push old ones left instead of reloading  
-✅ **D3.js-powered** – Efficient, scalable, and highly customizable  
-
 ---
+
+🔥 Future Enhancements
+🔹 Live API Data → Connect to a real stock market API (e.g., Binance, Alpha Vantage).
+🔹 Indicators → Add moving averages, RSI, Bollinger Bands for analysis.
+🔹 Custom Timeframes → Allow users to select 1m, 5m, 15m, 1H views.
 
