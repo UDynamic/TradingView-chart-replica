@@ -1,6 +1,6 @@
 # 📈 Dynamic TradingView-Style Candlestick Chart with D3.js
 
-
+![Candlestick Chart](chrome-capture-2025-3-23.gif)
 
 ## 📝 Overview
 This project is a **fully interactive candlestick chart** built with **D3.js**, designed to mimic the behavior of **TradingView charts**. It features **real-time updates**, **smooth animations**, and a **dynamic zooming experience**, making it an ideal starting point for anyone interested in **financial data visualization**.
