@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #131722; /* Dark TradingView-style background */
+    color: #ffffff;
+    text-align: center;
+}
+
+h2 {
+    color: #ffffff;
+}
+
+svg {
+    background-color: #1e222d; /* Slightly lighter dark background for contrast */
+    border: 1px solid #2a2e39; /* Subtle border like TradingView */
+    display: block;
+    margin: auto;
+}
+
+/* Grid lines */
+.axis path,
+.axis line {
+    stroke: #333c4e; /* Dark gray grid lines */
+}
+
+.tick text {
+    fill: #b0b8c4; /* Soft gray text for axes */
+}
+
+/* Candlestick styles */
+.wick {
+    stroke: #b0b8c4; /* Light gray for high-low wicks */
+    stroke-width: 1px;
+}
+
+.candle {
+    stroke: black; /* Black stroke for contrast */
+}
+
+/* Green (bullish) candle */
+.candle[fill="green"] {
+    fill: green; /* TradingView-style green */
+}
+
+/* Red (bearish) candle */
+.candle[fill="red"] {
+    fill: red; /* TradingView-style red */
+}
